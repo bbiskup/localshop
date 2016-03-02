@@ -29,7 +29,7 @@ setup(
         'Django==1.7.8',
         'Pillow==2.8.1',
         'celery==3.1.18',
-        'kombu==3.0.26',
+        'kombu==3.0.30',
         'django-braces==1.8.0',
         'django-cache-url==0.8.0',
         'django-celery==3.1.16',
